@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HarshAgarwal7202/React_Random_Advice_Giver.git/static/css/main.27859134.css",
+    "main.js": "/HarshAgarwal7202/React_Random_Advice_Giver.git/static/js/main.ef9eca97.js",
+    "static/media/city.jpg": "/HarshAgarwal7202/React_Random_Advice_Giver.git/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/HarshAgarwal7202/React_Random_Advice_Giver.git/index.html",
+    "main.27859134.css.map": "/HarshAgarwal7202/React_Random_Advice_Giver.git/static/css/main.27859134.css.map",
+    "main.ef9eca97.js.map": "/HarshAgarwal7202/React_Random_Advice_Giver.git/static/js/main.ef9eca97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27859134.css",
+    "static/js/main.ef9eca97.js"
+  ]
+}
